@@ -1,0 +1,2 @@
+# GananciasDiariasBootstrap
+Comenzando a trabajar 
